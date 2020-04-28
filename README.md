@@ -2,6 +2,7 @@
 
 This is a repository for public discussions.
 Any help or questions will have their issues transferred here.
+[Join the discussion](https://github.com/koajs/discussions/issues).
 
 For more discussions, join the Slack group: 
 
